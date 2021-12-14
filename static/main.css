@@ -1,0 +1,50 @@
+@font-face {
+    font-family: Circular;
+    src: url('circular-medium.woff2');
+  }
+  body{
+               
+   
+    background-color: aqua;
+    background-size: cover;
+    background-attachment: fixed;
+  
+  }
+  form{
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+    
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+  color: rgb(19, 18, 18);
+  
+  
+    
+  
+    
+    
+  }
+  input[type= date]
+  {
+    padding: 10px;
+  
+  }
+  
+  input[type= text]{
+    width: 80%;
+    padding: 5px;
+    font-size: 18px;
+  }
+  input[type= submit]{
+    padding:5px;
+    font-size: 20px;
+    width: 100px;
+  
+  }
+  select{
+     font-size:20px ;
+     padding: 5px;
+    
+  }

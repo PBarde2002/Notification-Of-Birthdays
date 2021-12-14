@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+</head>
+<style>
+   body{
+               
+   
+               background-color: aqua;
+               background-size: cover;
+               background-attachment: fixed;
+             
+             }
+             form{
+               width: 500px;
+               margin: auto;
+               padding: 50px;
+               
+               font-size: 20px;
+               font-family: Verdana, Geneva, Tahoma, sans-serif;
+              font-weight: bold;
+             color: rgb(19, 18, 18);
+            }
+             input[type= date]
+             {
+               padding: 10px;
+             
+             }
+             
+             input[type= text]{
+               width: 80%;
+               padding: 5px;
+               font-size: 18px;
+             }
+             input[type= submit]{
+               padding:5px;
+               font-size: 20px;
+               width: 100px;
+             
+             }
+             select{
+                font-size:20px ;
+                padding: 5px;
+               
+             }
+</style>
+<body>
+
+  <form action="/form_login" method="post">
+    <h2></h2>FirstName:<br>
+    <input type="text" name='FirstName'><br>
+    <h2></h2>LastName:<br>
+    <input type="text" name='LastName'><br>
+    Date of Birth<br>
+    <input type="date" name="dateofbirth" 
+    placeholder="dd-mm-yyyy" value=""
+    min="1997-01-01" max="2030-12-31">
+    <br/>
+   
+         
+    Enter Mobile Number:<br>
+    <input placeholder="enter your  whatsapp number "
+    type="text"
+    name="mobilenumber" /><br><br>
+  <input type="submit" value="Login">
+  </form>
+  <h1 >{{info}}</h1>
+  
+  </body>
+  </html>
+             
+             
+               
+             
+               
+               
+            
