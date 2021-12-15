@@ -6,7 +6,8 @@ Reminder is a automatic message sending site which enables you to write importan
 Step 1: Login with your name , mobile number and birthdate.
 
 
-![WhatsApp Image 2021-12-15 at 22 56 34](https://user-images.githubusercontent.com/81550605/146235150-2f3b5e5b-f300-4c4b-94cc-a753681d9f77.jpeg)
+![WhatsApp Image 2021-12-15 at 23 08 22](https://user-images.githubusercontent.com/81550605/146236988-57110557-9324-41e5-bfcf-b4e089d6b493.jpeg)
+
 
 
 
@@ -14,6 +15,9 @@ Step 2: If you are registered in database you will get a link of whatsapp group 
 
 
 ![WhatsApp Image 2021-12-14 at 23 15 27](https://user-images.githubusercontent.com/81550605/146068320-2eb099d3-0b4e-4bd8-9128-3d4c2060ed32.jpeg)
+
+
+
 
 # Future Ideas 
 The website can be able to send any message like company reminders,birthday wishes,exam reminders on whatsapp groups. We can develop the same for sending mails,and also messages on other social networking sites.
