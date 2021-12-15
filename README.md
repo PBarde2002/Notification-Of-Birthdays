@@ -6,7 +6,8 @@ is a automatic message sending site which enables you to write important message
 Step 1: Login with your name , mobile number and birthdate.
 
 
-![WhatsApp Image 2021-12-14 at 23 14 55](https://user-images.githubusercontent.com/81550605/146068068-afe1503d-f1d4-4896-828c-aee579a0e678.jpeg)
+![WhatsApp Image 2021-12-15 at 22 56 34](https://user-images.githubusercontent.com/81550605/146235150-2f3b5e5b-f300-4c4b-94cc-a753681d9f77.jpeg)
+
 
 
 Step 2: If you are registered in database you will get a link of whatsapp group where you can join and get bithday reminder notifications automatically.
@@ -19,6 +20,10 @@ The website can be able to send any message like company reminders,birthday wish
 
 
 # My stack 
-Flask,python,html,css
+Tools and technologies that used in the project.
+1.Html/Css
+2.Python
+3.Flask
+4.
 
 
