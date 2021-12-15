@@ -32,10 +32,10 @@ Tools and technologies that used in the project.
 
 3.Flask
 
-# How to use it
+
 1.Clone the repository
 
-''' git clone [https://github.com/PBarde2002/Reminder/](url)'''
+//git clone [https://github.com/PBarde2002/Reminder/](url)//
 
 
 # Team name:Juggernaut
