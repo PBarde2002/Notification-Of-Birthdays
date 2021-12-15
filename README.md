@@ -32,5 +32,26 @@ Tools and technologies that used in the project.
 
 3.Flask
 
+# How to use it
+1.Clone the repository
+[https://github.com/PBarde2002/Reminder/](url)
 
+
+# Team name:Juggernaut
+
+# Team members:
+
+Prajakta barde
+
+Eshwari kashid
+
+# Mentors
+
+Tanish Sawant
+
+Prasad Thakare
+
+Akshay Bakshi
+
+Santanu Kumar
 
