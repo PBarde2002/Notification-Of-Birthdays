@@ -1,5 +1,5 @@
 # Reminder
-The website is currently working as birthday reminder . In which you will get birthday reminder message before one day of the respective person's birthday.
+is a automatic message sending site which enables you to write important messages that are to to sent on a particular date prior.So tha important messages aren’t missed out on the decided dates.The message will automatically send to the desired person on the decided date.We often tend to forget birthdays,followup messages and important messages to send on particular day.Using this site,you just need to write the messages,choose date on which message has to be send  and save it in database .The message will automatically be send to desired person on desired date.
 
 
 # How to use it
@@ -15,7 +15,8 @@ Step 2: If you are registered in database you will get a link of whatsapp group 
 ![WhatsApp Image 2021-12-14 at 23 15 27](https://user-images.githubusercontent.com/81550605/146068320-2eb099d3-0b4e-4bd8-9128-3d4c2060ed32.jpeg)
 
 # Future Ideas 
-The website can be able to send any message like company reminders,birthday wishes,exam reminders on whatsapp groups.
+The website can be able to send any message like company reminders,birthday wishes,exam reminders on whatsapp groups. We can develop the same for sending mails,and also messages on other social networking sites.
+
 
 # My stack 
 Flask,python,html,css
