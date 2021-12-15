@@ -2,7 +2,7 @@
 Reminder is a automatic message sending site which enables you to write important messages that are to to sent on a particular date prior.So tha important messages aren’t missed out on the decided dates.The message will automatically send to the desired person on the decided date.We often tend to forget birthdays,followup messages and important messages to send on particular day.Using this site,you just need to write the messages,choose date on which message has to be send  and save it in database .The message will automatically be send to desired person on desired date.
 
 
-# How to use it
+# Screenshots
 Step 1: Login with your name , mobile number and birthdate.
 
 
@@ -32,10 +32,14 @@ Tools and technologies that used in the project.
 
 3.Flask
 
+# How to use it
 
-1.Clone the repository
+1.Clone the repository.
 
-//git clone [https://github.com/PBarde2002/Reminder/](url)//
+2.Install flask.
+
+3.Run the file app.py
+
 
 
 # Team name:Juggernaut
