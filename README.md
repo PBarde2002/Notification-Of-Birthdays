@@ -34,7 +34,8 @@ Tools and technologies that used in the project.
 
 # How to use it
 1.Clone the repository
-[https://github.com/PBarde2002/Reminder/](url)
+
+''' git clone [https://github.com/PBarde2002/Reminder/](url)'''
 
 
 # Team name:Juggernaut
