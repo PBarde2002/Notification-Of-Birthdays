@@ -23,7 +23,9 @@ The website can be able to send any message like company reminders,birthday wish
 Tools and technologies that used in the project.
 
 1.Html/Css
+
 2.Python
+
 3.Flask
 
 
