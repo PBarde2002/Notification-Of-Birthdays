@@ -59,8 +59,11 @@ Step 2: If you are registered in database you will get a link of whatsapp group 
 
 🥢PROGRESS
 ☑Design and train ML model
+
 ☑Execute the database
+
 ☑Implement the code
+
 ☑Direct the message
 
 
