@@ -2,10 +2,12 @@ We often tend to forget birthdays,followup messages and important messages to se
 The ML model uses the code and directs the message at 12 am,using the Task Scehdular. 
 Used Flask REST API for backend querying of model.
 react-force-graph module is used for displaying the data in map format.
-HTML/CSS/JS and React are used for building the UI and other features of the website.
-TMDB 5000 Movie DataSet is used for displaying movie info.
-GitHub repo link: GitHub
-Website link: Website
+HTML/CSS/JS and React are used for building the UI and other features of the websit
+
+
+
+
+
 🥢TECHNOLOGY STACK
 TOOLS AND TECHNOLOGIES THAT WE LEARNT IN THIS PROJECT:
 1.HTML AND CSS
@@ -15,18 +17,30 @@ TOOLS AND TECHNOLOGIES THAT WE LEARNT IN THIS PROJECT:
 5.SQLITE(FOR DATABASE)
 
 📅REMINDER
- ⏩📁TEMPLATES
-    ⏩�📜Login.html
-    ⏩�📜Register.html
- ⏩📁SRC 
-   ⏩�📜birthday.py
-  ⏩📜�config.py
-  ⏩📜�main.py
+
+⏩📁TEMPLATES
+   
+  ⏩📜login.html
+  
+  ⏩📜register.html
+
+⏩📁SRC 
+  
+  ⏩📜birthday.py
+ 
+ ⏩📜config.py
+ 
+ ⏩📜main.py
+
 ⏩📁STATIC
+  
   ⏩📜login.css
-  ⏩📜register.css
-  ⏩📜images
-  ⏩📜app.py
+ 
+ ⏩📜register.css
+
+⏩📜images
+
+⏩📜app.py
 
     
 🥢 Screenshots
